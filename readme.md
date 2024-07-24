@@ -1,6 +1,7 @@
 # JS Deg Calculate
-[GitHub Pages: https://rohitsignin.github.io/JS-Deg-Calculate/](https://rohitsignin.github.io/JS-Deg-Calculate/)
-This project demonstrates how to calculate the angle in degrees between the mouse pointer and the center of the viewport. The calculated angle is used to rotate an element on the page and display the angle in real-time as the mouse moves.
+[GitHub Page: https://rohitsignin.github.io/JS-Deg-Calculate/](https://rohitsignin.github.io/JS-Deg-Calculate/) \
+
+ This project demonstrates how to calculate the angle in degrees between the mouse pointer and the center of the viewport. The calculated angle is used to rotate an element on the page and display the angle in real-time as the mouse moves.
 
 ## Degree Calculation
 
